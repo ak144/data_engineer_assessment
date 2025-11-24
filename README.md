@@ -81,4 +81,4 @@ For MySQL Docker image reference:
 
 ## Solutions and Instructions (Filed by Candidate)
 
-**Document your solution here:**
+1.I have submitted one ipynb file and .sql file which contains python scripts to perform normalisiation and load the data in mysql.another.sql file contains the mysql scripts to create the table.
